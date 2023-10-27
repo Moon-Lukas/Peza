@@ -1,4 +1,5 @@
 # Peza
 A Mobile for online advertising
-An e-commerce for small scale businesses.
-Learning management system
+E-commerce for small-scale businesses.
+Learning management systems.
+Property for rent or hire.
